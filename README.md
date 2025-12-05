@@ -25,10 +25,10 @@
         <li>⚡ Fun fact: <b>I code better with coffee ☕</b></li>
       </ul>
       <div align="left">
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="[_blank](https://www.linkedin.com/in/minh-quang-nguy%E1%BB%85n-8a4379399/)">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="mailto:your_email@gmail.com">
+        <a href="mailto:minhquang04072005@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
         </a>
       </div>
