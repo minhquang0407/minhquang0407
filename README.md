@@ -18,7 +18,7 @@
         Hi there! I'm <b>Quang</b>.
       </p>
       <ul>
-        <li>🔭 I’m currently working on <b>Machine Learning & AI</b></li>
+        <li>🔭 I’m currently working on <b>Machine Learning & Reinforcement Learning</b></li>
         <li>🌱 I’m currently learning <b>Data Science & Python</b></li>
         <li>👯 I’m looking to collaborate on <b>Open Source Projects</b></li>
         <li>💬 Ask me about <b>Python, Java, C++</b></li>
