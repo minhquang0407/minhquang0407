@@ -15,7 +15,7 @@
     <td width="50%" valign="top">
       <h2>🧐 About Me</h2>
       <p>
-        Hi there! I'm <b>[Tên của bạn]</b>.
+        Hi there! I'm <b>Quang</b>.
       </p>
       <ul>
         <li>🔭 I’m currently working on <b>Machine Learning & AI</b></li>
