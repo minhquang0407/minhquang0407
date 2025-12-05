@@ -75,7 +75,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding cat">
   
   <p align="center">
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <a href="https://github.com/minhquang0407?tab=repositories">
       <img src="https://img.shields.io/badge/See%20My%20Projects-Click%20Here-blue?style=for-the-badge&logo=github" alt="See Projects"/>
     </a>
   </p>
