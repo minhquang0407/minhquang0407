@@ -18,7 +18,7 @@ I approach Computer Science through the lens of mathematical rigor. My focus is 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, Java |
+| **Languages** | Python, C/C++, Java |
 | **AI / ML** | PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy |
 | **Infrastructure** | Docker, Git, Linux |
 
