@@ -1,6 +1,6 @@
-# MINH QUANG
+# QUANG NGUYEN MINH
 
-> **AI Engineer • Mathematics Enthusiast**
+> **AI Researcher • Mathematics Enthusiast**
 
 I approach Computer Science through the lens of mathematical rigor. My focus is on understanding the theoretical foundations of algorithms to build robust, efficient, and scalable AI solutions. I value precision in code and clarity in logic.
 
