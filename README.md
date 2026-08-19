@@ -1,6 +1,6 @@
 # QUANG NGUYEN
 
-> **just a curious human orbiting somewhere between topology, transformers, and throttle.**
+> **just a human trying to understand structure in a universe full of noise.**
 
 I study **Mathematics & Computer Science** and spend most of my time trying to understand how intelligent systems **see, reason, remember, and fail**.
 
